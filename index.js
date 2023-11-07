@@ -24,3 +24,4 @@ function updateClock() {
     const seconds = now.getSeconds()
     clock.textContent = hours + ':' + minutes + ':' + seconds;
 }
+{}
